@@ -1,2 +1,2 @@
-# datascientist
-I am gonna work on data scientist projects
+# game devlopment
+my first project
